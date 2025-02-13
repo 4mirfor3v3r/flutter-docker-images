@@ -7,7 +7,7 @@ ARG flutter_ver=2.10.4
 ARG build_rev=0
 
 LABEL org.opencontainers.image.source="\
-    https://github.com/instrumentisto/flutter-docker-image"
+    https://github.com/4mirfor3v3r/flutter-docker-images"
 
 
 # Install Flutter
